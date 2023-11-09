@@ -1,7 +1,7 @@
-### Hi there，this is Steve 👋
+### Hi there， this is Steve 👋
 
 
-- 👨‍🎓 I’m currently a student @UNSW, SYD
+- 👨‍🎓 I’m currently an MPhil. student @UNSW, SYD
 - 🌱 I’m currently researching on Graph Data Mining
 
 

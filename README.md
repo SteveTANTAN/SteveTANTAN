@@ -1,4 +1,4 @@
-### Hi there，this is STEVE_TAN_TAN 👋
+### Hi there，this is Steve 👋
 
 
 - 👨‍🎓 I’m currently a student @UNSW, SYD

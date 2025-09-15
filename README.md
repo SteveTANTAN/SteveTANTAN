@@ -9,7 +9,7 @@
 <!--   <a href="https://stevetantan.github.io/"><img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a> -->
   <a href="https://scholar.google.com/citations?user=2gzpDtsAAAAJ&hl=en/"><img src="https://img.shields.io/badge/Scholar-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/xingyu-tan-b90179173/"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:xingyutan@unsw.edu.au"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:xingyu.tan@unsw.edu.au"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">

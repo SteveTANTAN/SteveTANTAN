@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/SteveTANTAN?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=f39c12"/>
+  <img src="https://img.shields.io/github/stars/SteveTANTAN?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=ffffff"/>
   <img src="https://komarev.com/ghpvc/?username=SteveTANTAN&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 </p>
 

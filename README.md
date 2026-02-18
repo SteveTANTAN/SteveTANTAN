@@ -23,6 +23,7 @@
 🎓 Ph.D. candidate @ **UNSW CSE** & **CSIRO Data61**  
 🔬 Researching on **Knowledge Graph Reasoning · Structured RAG · Graph Mining**  
 👨‍🏫 Teaching Academic & Course Admin @ **UNSW COMP9311/9313/9315** 
+
 🔬 MLE & Researcher intern @ **TikTok, Australia**
 
 ---
